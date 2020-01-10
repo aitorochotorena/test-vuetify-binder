@@ -13,7 +13,7 @@ Demo using ipyuetify widget and bqplot, and render them with voila and a custom 
  * https://github.com/jupyter-widgets/ipywidgets (Coolest Jupyter framework to create bidirectional browser-kernel widgets)
 
 # Run on mybinder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maartenbreddels/voila-demo/master?urlpath=voila%2Frender%2Fvoila-vuetify.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maartenbreddels/voila-demo/master?urlpath=voila%2Frender%2F06c-s1000-EvolutionaryAlgorithm-Climb%2CTO%2CHover_new.ipynb)
 
 
 # Run on heroku
