@@ -4,8 +4,6 @@ voila-vuetify>=0.0.1a6
 bqplot
 numpy
 scipy
-timeit
-time
 ipywidgets
 pandas
 scipy.optimize
